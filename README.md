@@ -13,3 +13,8 @@ http://developer.android.com/training/basics/firstapp/creating-project.html
 
 This commit includes the changes done to the "activity_my.xml" and strings.xml to complete the second part of the tutorial. Important Concepts to have. The use of the "Strings resources", and the "layout_weight" attribute.
 http://developer.android.com/training/basics/firstapp/building-ui.html
+
+# Third Commit:
+
+This commit add the functionality to Open a new Intent with the message from another Activity, Important concepts "intent.getStringExtra" allows to get information from the triggered Activity. The onCreate method inside of Activities is the first step in the creation flow of any Activity.
+http://developer.android.com/training/basics/firstapp/starting-activity.html
