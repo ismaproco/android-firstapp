@@ -18,3 +18,9 @@ http://developer.android.com/training/basics/firstapp/building-ui.html
 
 This commit add the functionality to Open a new Intent with the message from another Activity, Important concepts "intent.getStringExtra" allows to get information from the triggered Activity. The onCreate method inside of Activities is the first step in the creation flow of any Activity.
 http://developer.android.com/training/basics/firstapp/starting-activity.html
+
+
+#Fourth Commit:
+
+Include the solution for the missing of information while navigating between Activitys.
+Solution in Stackoverflow answer: http://stackoverflow.com/questions/21805382/how-to-resume-activity-instead-of-restart-when-going-up-from-action-bar
